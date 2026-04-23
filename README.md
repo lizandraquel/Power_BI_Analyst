@@ -11,7 +11,7 @@ O relatório final é composto por 3 páginas:
 Replicadas conforme o curso, utilizando a sample disponibilizada.
 Contêm visuais de análise de vendas e desempenho.
 
-**Página 3** (criação própria)
+**Página 3** 
 **Mapa 1:** Vendas e Unidades Vendidas por País
 **Mapa 2:** Lucro por País
 **Gráfico de Pizza:** Lucro por Segmento
